@@ -52,7 +52,7 @@
             </a>
           </li>
           
-          {{ range site.Menus.main }}
+          {{ range where site.Menus.main "Name" "ne" "Home" }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
