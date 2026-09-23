@@ -25,7 +25,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['120px', '8%', '120px', '8%']
+        padding: ['160px', '0%', '160px', '0%']
   
   - block: collection
     content:
