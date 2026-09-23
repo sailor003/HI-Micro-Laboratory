@@ -5,17 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      content:
-      title: |
-        HI-Micro Lab
+      title:
+      subtitle:
       text: |
-        **Heterogeneous Integration & Microsystems**
+        # HI-Micro Lab
 
-        Advanced semiconductor packaging, MEMS, MicroLEDs, photonics, and microsystems for next-generation electronics and computing.
-      image:
-        filename: welcome.jpg
+        ## Heterogeneous Integration & Microsystems
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: asu-campus.jpg
+          filters:
+            brightness: 0.65
+          parallax: false
+          position: center center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['120px', '8%', '120px', '8%']
   
   - block: collection
     content:
