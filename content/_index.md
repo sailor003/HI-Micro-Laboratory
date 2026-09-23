@@ -27,4 +27,4 @@ sections:
           text_color_light: true
       spacing:
         padding: ['160px', '0%', '160px', '0%']
-  ---
+---
