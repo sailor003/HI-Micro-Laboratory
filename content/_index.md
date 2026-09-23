@@ -14,6 +14,7 @@ sections:
 
         ## Heterogeneous Integration & Microsystems
     design:
+      css_class: hero-banner
       columns: '1'
       background:
         image:
