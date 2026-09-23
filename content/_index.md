@@ -27,4 +27,33 @@ sections:
           text_color_light: true
       spacing:
         padding: ['160px', '0%', '160px', '0%']
+
+    - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        ## We are hiring
+
+        Our lab at ASU is actively recruiting motivated Ph.D. and M.S. students with background in electrical engineering, mechanical engineering, materials science and engineering, or related fields for research in the areas of:
+
+        - Advanced Semiconductor Packaging & Heterogeneous Integration
+        - Micro-electro-mechanical systems (MEMS) & Microsystems
+
+        We offer a collaborative research and study environment. To learn more or apply, please contact [hailiu@asu.edu](mailto:hailiu@asu.edu).
+
+        ## About Us
+
+        We advance the frontiers of heterogeneous integration, MEMS, microsystems, and electronic/photonic semiconductor packaging. Our mission is to bridge device level innovation with system-level integration, powering next-generation applications in advanced computing, communications, sensing, and healthcare.
+
+        Students and researchers in our lab gain comprehensive, hands-on experience spanning:
+
+        - Multiphysics design and simulation
+        - Cleanroom micro-fabrication, packaging, and assembly
+        - Advanced characterization and testing
+        - System integration and application
+    design:
+      columns: '1'
+      spacing:
+        padding: ['60px', '5%', '60px', '5%']
 ---
