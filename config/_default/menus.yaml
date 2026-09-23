@@ -4,9 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Research
+    identifier: research
+    url: research
     weight: 10
+    children:
+      - name: Advanced Semiconductor Packaging
+        url: research/packaging
+        weight: 10
+      - name: MEMS
+        url: research/mems
+        weight: 20
   - name: News
     url: post
     weight: 20
