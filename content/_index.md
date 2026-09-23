@@ -28,7 +28,7 @@ sections:
       spacing:
         padding: ['160px', '0%', '160px', '0%']
 
-    - block: markdown
+  - block: markdown
     content:
       title:
       subtitle:
