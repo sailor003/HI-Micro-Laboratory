@@ -8,13 +8,17 @@ main:
     identifier: research
     url: research
     weight: 10
-    children:
-      - name: Advanced Semiconductor Packaging
-        url: research/packaging
-        weight: 10
-      - name: MEMS
-        url: research/mems
-        weight: 20
+
+  - name: Advanced Semiconductor Packaging
+    parent: research
+    url: research/packaging
+    weight: 10
+
+  - name: MEMS
+    parent: research
+    url: research/mems
+    weight: 20
+    
   - name: News
     url: post
     weight: 20
