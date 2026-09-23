@@ -46,6 +46,12 @@
 
         <!-- Left Nav Bar -->
         <ul class="navbar-nav d-md-inline-flex">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.Home.RelPermalink }}">
+              <span>Home</span>
+            </a>
+          </li>
+          
           {{ range site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
