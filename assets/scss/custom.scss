@@ -2,3 +2,29 @@
 .hero-banner h2 {
   color: white !important;
 }
+.hi-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.asu-logo {
+  height: 52px;
+  width: auto;
+}
+
+.hi-brand-text {
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.hi-school {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.hi-name {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 4px;
+}
