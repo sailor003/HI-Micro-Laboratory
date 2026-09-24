@@ -1,4 +1,8 @@
 ---
+title: "Advanced Semiconductor Packaging"
+date: 2026-09-23
+type: landing
+
 sections:
   - block: markdown
     content:
