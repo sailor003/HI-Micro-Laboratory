@@ -1,15 +1,27 @@
 ---
-title: "Advanced Semiconductor Packaging"
-date: 2026-09-23
-type: landing
 sections:
   - block: markdown
     content:
       title: "Highly Reliable Solder Joint Interconnections"
+      text: ""
+    design:
+      columns: "1"
+      spacing:
+        padding: ["30px", "8%", "0px", "8%"]
+
+  - block: image
+    content:
+      image:
+        filename: "solder-joint.jpg"
+        alt: "Solder joint"
+    design:
+      width: "80%"
+      spacing:
+        padding: ["0px", "8%", "20px", "8%"]
+
+  - block: markdown
+    content:
       text: |
-        | ![Solder joint](solder-joint.jpg) |
-        |:---:|
-      
         Solder joint is the most popular electrical interconnection in semiconductor packaging and heterogeneous integration. When the connection density is increasing with smaller and smaller solder joints in advanced packaging, the reliability is critical.
 
         * Zhang, Jing, Hai Liu, and Jaisung Lee. "Board level cyclic bending test for MCP package." In *2007 9th Electronics Packaging Technology Conference*, pp. 459-462. IEEE, 2007.
@@ -20,7 +32,6 @@ sections:
         * Lu, Kai, and Hai Liu. "Mixed Solder Ball Arrangement and Its Formation Method." *Chinese Patent 103219310 B*, issued July 13, 2016.
     design:
       columns: "1"
-      css_class: "solder-joint-section"
       spacing:
-        padding: ["30px", "8%", "30px", "8%"]
+        padding: ["0px", "8%", "30px", "8%"]
 ---
