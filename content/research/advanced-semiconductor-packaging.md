@@ -8,7 +8,7 @@ sections:
     content:
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
-        <span style="font-size: 1.4rem; font-weight: 700; color: #111;">▢</span>
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
           Highly Reliable Solder Joint Interconnections
         </h3>
         
