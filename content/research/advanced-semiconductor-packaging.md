@@ -37,6 +37,8 @@ sections:
 
         Solder joints are among the most widely used electrical interconnections in semiconductor packaging and heterogeneous integration. With increasing interconnect density and continuous scaling of solder joint dimensions in advanced packaging, achieving reliable and robust solder joint interconnections has become increasingly critical.
 
+        Relevant Publications and Patents
+
         * Zhang, Jing, Hai Liu, and Jaisung Lee. "Board level cyclic bending test for MCP package." In *2007 9th Electronics Packaging Technology Conference*, pp. 459-462. IEEE, 2007.
         * Liu, Hai, Jing Zhang, Song Chen, Maohua Du, Nufeng Feng, Qian Wang, and Taekoo Lee. "Board level thermal cycle reliability of BGA for a new type of pad structure with OSP surface finish." In *2007 8th International Conference on Electronic Packaging Technology*, pp. 1-3. IEEE, 2007.
         * Liu, Hai. "Printed circuit board for semiconductor package." *U.S. Patent 9,504,152 B2*, issued November 22, 2016.
@@ -61,6 +63,8 @@ sections:
         <div style="height: 25px;"></div>
 
         Cu wire bonding offers higher electrical and thermal conductivity at a lower cost compared to traditional Au wire bonding. However, it faces challenges such as bond pad damage during processing and reliability issues in humid environments. We addressed these issues through tailored material selection and process parameter optimization.
+
+        Relevant Publications
 
         * Liu, Hai, Zhenqing Zhao, Qiang Chen, Jianwei Zhou, Maohua Du, Senyun Kim, Jonghyun Chae, and Myungkee Chung. "Reliability of copper wire bonding in humidity environment." In 2011 IEEE 13th Electronics Packaging Technology Conference, pp. 53-58. IEEE, 2011.
         * Chen, Qiang, Zhenqing Zhao, Hai Liu, Jonghyun Chae, Senyun Kim, and Myungkee Chung. "Investigation of various pad structure influence for copper wire bondability." In 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging, pp. 1-4. IEEE, 2011.
