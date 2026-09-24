@@ -8,7 +8,7 @@ sections:
     content:
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
-          Highly Reliable Solder Joint Interconnections
+          □ Highly Reliable Solder Joint Interconnections
         </h3>
         
         ![Solder joint](solder-joint.jpg)
