@@ -6,7 +6,6 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: “”
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
           Highly Reliable Solder Joint Interconnections
@@ -25,5 +24,5 @@ sections:
     design:
       columns: "1"
       spacing:
-        padding: ["30px", "8%", "30px", "8%"]
+        padding: ["10px", "8%", "10px", "8%"]
 ---
