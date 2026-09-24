@@ -9,12 +9,30 @@ sections:
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
         <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Multi-Levels Heterogeneous Integration
+        </h3>
+        
+        ![heterogeneous integration](heterogeneous-integration.jpg)
+
+        Heterogeneous integration，including fan-in/fan-out wafer-level packaging, multi-chip and 2.5D/3D packaging, hybrid bonding, wire bonding, flip-chip bonding, and surface-mount technology (SMT)，integrates electronic, photonic, and MEMS components to enable More-than-Moore scaling beyond conventional transistor scaling. These technologies are critical for advancing high-performance and high-density computing, data storage, communications, power management, sensing, and AI hardware.  
+
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
+
+sections:
+  - block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
           Highly Reliable Solder Joint Interconnections
         </h3>
         
         ![Solder joint](solder-joint.jpg)
 
-        Solder joint is the most popular electrical interconnection in semiconductor packaging and heterogeneous integration. When the connection density is increasing with smaller and smaller solder joints in advanced packaging, the reliability is critical.
+        Solder joints are among the most widely used electrical interconnections in semiconductor packaging and heterogeneous integration. With increasing interconnect density and continuous scaling of solder joint dimensions in advanced packaging, achieving reliable and robust solder joint interconnections has become increasingly critical.
 
         * Zhang, Jing, Hai Liu, and Jaisung Lee. "Board level cyclic bending test for MCP package." In *2007 9th Electronics Packaging Technology Conference*, pp. 459-462. IEEE, 2007.
         * Liu, Hai, Jing Zhang, Song Chen, Maohua Du, Nufeng Feng, Qian Wang, and Taekoo Lee. "Board level thermal cycle reliability of BGA for a new type of pad structure with OSP surface finish." In *2007 8th International Conference on Electronic Packaging Technology*, pp. 1-3. IEEE, 2007.
