@@ -11,7 +11,7 @@ main:
 
   - name: Advanced Semiconductor Packaging
     parent: research
-    url: research/packaging
+    url: research/advanced-semiconductor-packaging/
     weight: 10
 
   - name: MEMS
