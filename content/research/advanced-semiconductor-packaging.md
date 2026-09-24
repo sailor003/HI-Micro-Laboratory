@@ -58,9 +58,7 @@ sections:
           Advanced Wire Bonding
         </h3>
         
-        <img src="{{ "uploads/advanced-wire-bonding.jpg" | relURL }}"
-        alt="Advanced Wire Bonding"
-        style="width: 80%; height: auto;">
+        ![Advanced wire bonding](advanced-wire-bonding.jpg)
 
         <div style="height: 25px;"></div>
 
