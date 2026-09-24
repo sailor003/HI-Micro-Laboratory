@@ -12,7 +12,7 @@ sections:
           Multi-Levels Heterogeneous Integration
         </h3>
         
-        ![heterogeneous integration](heterogeneous-integration.jpg)
+        ![Heterogeneous integration](heterogeneous-integration.jpg)
 
         Heterogeneous integration, including fan-in/fan-out wafer-level packaging, multi-chip and 2.5D/3D packaging, hybrid bonding, wire bonding, flip-chip bonding, and surface-mount technology (SMT), integrates electronic, photonic, and MEMS components to enable More-than-Moore scaling beyond conventional transistor scaling. These technologies are critical for advancing high-performance and high-density computing, data storage, communications, power management, sensing, and AI hardware.  
 
