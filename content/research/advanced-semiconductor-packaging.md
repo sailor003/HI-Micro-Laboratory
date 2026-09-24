@@ -47,4 +47,26 @@ sections:
       columns: "1"
       spacing:
         padding: ["10px", "8%", "10px", "8%"]
+
+  - block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Advanced Wire Bonding
+        </h3>
+        
+        ![Advanced wire bonding](advanced-wire-bonding.jpg)
+
+        <div style="height: 25px;"></div>
+
+        Cu wire bonding offers higher electrical and thermal conductivity at a lower cost compared to traditional Au wire bonding. However, it faces challenges such as bond pad damage during processing and reliability issues in humid environments. We addressed these issues through tailored material selection and process parameter optimization.
+
+        * Liu, Hai, Zhenqing Zhao, Qiang Chen, Jianwei Zhou, Maohua Du, Senyun Kim, Jonghyun Chae, and Myungkee Chung. "Reliability of copper wire bonding in humidity environment." In 2011 IEEE 13th Electronics Packaging Technology Conference, pp. 53-58. IEEE, 2011.
+        * Chen, Qiang, Zhenqing Zhao, Hai Liu, Jonghyun Chae, Senyun Kim, and Myungkee Chung. "Investigation of various pad structure influence for copper wire bondability." In 2011 12th International Conference on Electronic Packaging Technology and High Density Packaging, pp. 1-4. IEEE, 2011.
+        * Liu, Hai, Qi Chen, Zhenqing Zhao, Qian Wang, Jianfeng Zeng, and Jonghyun Chae. "Reliability of Au-Ag alloy wire bonding." In 2010 Proceedings 60th Electronic Components and Technology Conference (ECTC), pp. 234-239. IEEE, 2010.
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
 ---
