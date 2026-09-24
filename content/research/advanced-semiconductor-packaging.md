@@ -6,13 +6,13 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: "Highly Reliable Solder Joint Interconnections"
+      title: “”
       text: |
-        <div style="text-align: center;">
-
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
+          Highly Reliable Solder Joint Interconnections
+        </h3>
+        
         ![Solder joint](solder-joint.jpg)
-
-        </div>
 
         Solder joint is the most popular electrical interconnection in semiconductor packaging and heterogeneous integration. When the connection density is increasing with smaller and smaller solder joints in advanced packaging, the reliability is critical.
 
