@@ -6,7 +6,7 @@
 main:
   - name: Research
     identifier: research
-    url: research
+    url: research/
     weight: 10
 
   - name: Advanced Semiconductor Packaging
@@ -16,7 +16,7 @@ main:
 
   - name: MEMS
     parent: research
-    url: research/mems
+    url: research/mems/
     weight: 20
     
   - name: News
