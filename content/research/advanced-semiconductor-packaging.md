@@ -7,8 +7,9 @@ sections:
     content:
       title: "Highly Reliable Solder Joint Interconnections"
       text: |
-        ![Solder joint](solder-joint.jpg)
-        
+        | ![Solder joint](solder-joint.jpg) |
+        |:---:|
+      
         Solder joint is the most popular electrical interconnection in semiconductor packaging and heterogeneous integration. When the connection density is increasing with smaller and smaller solder joints in advanced packaging, the reliability is critical.
 
         * Zhang, Jing, Hai Liu, and Jaisung Lee. "Board level cyclic bending test for MCP package." In *2007 9th Electronics Packaging Technology Conference*, pp. 459-462. IEEE, 2007.
