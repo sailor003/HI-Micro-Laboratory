@@ -19,6 +19,7 @@ sections:
         * Lu, Kai, and Hai Liu. "Mixed Solder Ball Arrangement and Its Formation Method." *Chinese Patent 103219310 B*, issued July 13, 2016.
     design:
       columns: "1"
+      css_class: "solder-joint-section"
       spacing:
         padding: ["30px", "8%", "30px", "8%"]
 ---
