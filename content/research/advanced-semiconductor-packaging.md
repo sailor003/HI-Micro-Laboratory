@@ -9,15 +9,15 @@ sections:
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
         <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
-          Multi-Levels Heterogeneous Integration
+          Co-Packaged Optics (CPO) for High-Speed AI Interconnects
         </h3>
         
-        ![Heterogeneous integration](heterogeneous-integration.jpg)
+        ![Co Packaged Optics.jpg](co-packaged-optics.jpg)
 
         <div style="height: 25px;"></div>
 
-        Heterogeneous integration, including fan-in/fan-out wafer-level packaging, multi-chip and 2.5D/3D packaging, hybrid bonding, wire bonding, flip-chip bonding, and surface-mount technology (SMT), integrates electronic, photonic, and MEMS components to enable More-than-Moore scaling beyond conventional transistor scaling. These technologies are critical for advancing high-performance and high-density computing, data storage, communications, power management, sensing, and AI hardware.  
-
+        Co-packaged optics (CPO) combines advanced semiconductor packaging with optical interconnect technologies to enable high-bandwidth and energy-efficient communication for AI computing systems. Innovative packaging architectures, photonic integration, and optical I/O solutions are being developed to support next-generation AI data centers.
+        
     design:
       columns: "1"
       spacing:
@@ -92,6 +92,68 @@ sections:
 
         * Liu, Hai, Li Jin, Liqun Gu, Juanjuan Li, Ying Li, Qiang Chen, Maouha Du, Jianwei Zhou, and TaeSub Chang. "Solder joint reliability with various silver finish on PCB." In 2014 15th International Conference on Electronic Packaging Technology, pp. 396-400. IEEE, 2014.
         * Liu, Hai. "Methods of manufacturing printed circuit board and semiconductor package." U.S. Patent 10,049,970 B2, issued August 14, 2018.
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
+
+  - block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Thin Stacked Die Packaging
+        </h3>
+        
+        ![Thin stacked die packaging](thin-stacked-die-packaging.jpg)
+
+        <div style="height: 25px;"></div>
+
+        3D die stacking with wire bonding or TSV–solder interconnections enables high-density, high-speed memory for high-performance computing and data storage in desktop, mobile, automotive, and data center applications.
+        
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
+
+  - block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Cavity Packaging for MEMS Ultrasonic Ranging Sensor
+        </h3>
+        
+        ![Time of Flight](time-of-flight.jpg)
+
+        <div style="height: 25px;"></div>
+
+        Packaging design, materials, and manufacturing processes play critical roles in determining acoustic performance.
+        
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
+
+        design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
+
+  - block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Wafer Level Chip Scale Packaging (WLCSP) for Wearable Fingerprint Sensor
+        </h3>
+        
+        ![Wafer Level CSP.jpg](wafer-level-CSP.jpg)
+
+        <div style="height: 25px;"></div>
+
+        Development of ultra-thin MEMS ultrasonic fingerprint sensors for wearable electronics through wafer-level chip-scale packaging (WLCSP) with through-silicon vias (TSVs), enabling miniaturized, cost-effective, and highly reliable products.
+        
     design:
       columns: "1"
       spacing:
