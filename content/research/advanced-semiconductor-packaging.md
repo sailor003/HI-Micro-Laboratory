@@ -73,4 +73,27 @@ sections:
       columns: "1"
       spacing:
         padding: ["10px", "8%", "10px", "8%"]
+
+- block: markdown
+    content:
+      text: |
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
+        <span style="font-size: 1.15rem; font-weight: 700; color: #222;">▢</span>
+          Low Cost PCB and Substrate
+        </h3>
+        
+        ![Low cost PCB](low-cost-pcb.jpg)
+
+        <div style="height: 25px;"></div>
+
+        Development of innovative PCB and substrate surface finishes, including Ni-Cu-OSP and Ni-Pd-Ag, as cost-effective alternatives to conventional Ni/Au finishes while maintaining excellent solder joint reliability.
+
+        Relevant Publications and Patents
+
+        * Liu, Hai, Li Jin, Liqun Gu, Juanjuan Li, Ying Li, Qiang Chen, Maouha Du, Jianwei Zhou, and TaeSub Chang. "Solder joint reliability with various silver finish on PCB." In 2014 15th International Conference on Electronic Packaging Technology, pp. 396-400. IEEE, 2014.
+        * Liu, Hai. "Methods of manufacturing printed circuit board and semiconductor package." U.S. Patent 10,049,970 B2, issued August 14, 2018.
+    design:
+      columns: "1"
+      spacing:
+        padding: ["10px", "8%", "10px", "8%"]
 ---
