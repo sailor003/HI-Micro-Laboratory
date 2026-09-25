@@ -74,7 +74,7 @@ sections:
       spacing:
         padding: ["10px", "8%", "10px", "8%"]
 
-- block: markdown
+  - block: markdown
     content:
       text: |
         <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 20px;">
