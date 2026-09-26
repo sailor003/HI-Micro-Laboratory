@@ -13,7 +13,7 @@ sections:
         2. Liu, Hai, M. Barekatain, A. Roy, S. Liu, Y. Cao, Y. Tang, A. Shkel and E.S. Kim, “MEMS Piezoelectric Resonant Microphone Array for Lung Sound Classification,” Journal of Micromechanics and Microengineering, 33, No. 4 (2023), 044003.
         3. Fan, Shuyu, Yongkui Tang, Lurui Zhao, Hai Liu, Yufeng Wang, Dibo Hou, and Yunqi Cao. "Design optimization of microfabricated coils for volume-limited miniaturized broadband electromagnetic vibration energy harvester." Energy Conversion and Management 271 (2022): 116299.
         4. Barekatain, Matin, Hai Liu, and Eun Sok Kim. "Wireless and Battery-Less Tamper Detection With Pyroelectric Energy Converter and High-Overtone Bulk Acoustic Resonator." IEEE Sensors Journal 22, no. 14 (2022): 14639-14646.
-5. Liu, Hai, Song Liu, Anton A. Shkel, and Eun Sok Kim. "Active noise cancellation with MEMS resonant microphone array." Journal of Microelectromechanical Systems 29, no. 5 (2020): 839-845.
+        5. Liu, Hai, Song Liu, Anton A. Shkel, and Eun Sok Kim. "Active noise cancellation with MEMS resonant microphone array." Journal of Microelectromechanical Systems 29, no. 5 (2020): 839-845.
 
         ### Conference Papers
 
