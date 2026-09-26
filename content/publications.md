@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2026-09-25
-type: landing
+type: page
 ---
 
 ## Publications
