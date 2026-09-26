@@ -2,9 +2,9 @@
 title: "Publications"
 date: 2026-09-25
 type: landing
+---
 
 ## Publications
----
 
 <div class="pub-tabs">
 
