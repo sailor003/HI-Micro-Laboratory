@@ -47,3 +47,40 @@ img[alt="Advanced wire bonding"] {
   margin-right: auto;
 }
 
+.pub-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  margin: 30px 0;
+}
+
+
+.pub-tabs div {
+  padding: 20px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.2rem;
+  border-right: 1px solid #ddd;
+}
+
+
+.pub-tabs div:last-child {
+  border-right: none;
+}
+
+
+.pub-tabs div:hover {
+  background: #f5f5f5;
+}
+
+
+.publications h3 {
+  margin-top: 35px;
+}
+
+
+.publications li {
+  margin-bottom: 15px;
+}
+
