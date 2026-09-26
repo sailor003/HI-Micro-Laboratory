@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2026-09-25
-type: page
+type: landing
 
 sections:
   - block: markdown
