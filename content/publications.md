@@ -4,7 +4,7 @@ date: 2026-09-25
 type: landing
 
 ## Publications
-
+---
 
 <div class="pub-tabs">
 
@@ -61,4 +61,4 @@ Patents
 4. Liu, Hai. Printed Circuit Board and Semiconductor Packaging Including It, Chinese patent 105307386 B, issued July 06, 2018.
 5. Liu, Hai. A Mixed Surface Coating and Its Manufacturing Method, Chinese patent 103227160 B, issued March 16, 2016
 6. Lu, Kai, Hai Liu. Mixed Solder Ball Arrangement and Its Formation Method, Chinese patent 103219310 B, issued July 13, 2016.
----
+
