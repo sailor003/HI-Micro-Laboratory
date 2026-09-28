@@ -11,7 +11,7 @@ sections:
         <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
           <!-- 左侧照片 -->
           <div style="flex-shrink: 0;">
-            <img src="hai-liu.jpg" alt="Hai Liu" style="max-width: 180px; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+            <img src="hai-liu.jpg" alt="Hai Liu" style="max-width: 240px; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
           </div>
           
           <!-- 右侧文字介绍 -->
