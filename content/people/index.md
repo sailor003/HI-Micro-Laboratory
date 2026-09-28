@@ -20,23 +20,19 @@ sections:
           <!-- 右侧文字介绍 -->
           <div style="flex: 1; min-width: 280px;">
             <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">Hai Liu, Ph.D.</h3>
-
             <div style="color: #666; font-weight: 500; margin-bottom: 12px; line-height: 1.5;">
               Assistant Professor<br>
               School of Electrical, Computer and Energy Engineering<br>
               Arizona State University
             </div>
-
             <div style="margin-bottom: 16px;">
               Welcome to my homepage! My research focuses on advanced semiconductor
               packaging, heterogeneous integration, photonics packaging, and MEMS
               technologies for next-generation computing and sensing systems.
             </div>
-
             <div>
               Feel free to reach out via email for potential collaborations or graduate student openings.
-            </div>
-    
+            </div>    
           </div>
         </div>
 ---
