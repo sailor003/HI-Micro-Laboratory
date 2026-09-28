@@ -9,27 +9,45 @@ sections:
       text: |
         ### Principal Investigator
 
-  - block: columns
-    columns:
-      - content:
-          text: |
-            ![Hai Liu](/uploads/hai-liu.jpg)
-        design:
-          width: 30%
+        <div class="pi-profile">
 
-      - content:
-          text: |
-            ### Hai Liu, Ph.D.
+          <div class="pi-photo">
+            <img src="/uploads/hai-liu.jpg" alt="Hai Liu">
+          </div>
 
-            **Assistant Professor**  
-            School of Electrical, Computer and Energy Engineering  
-            Arizona State University
+          <div class="pi-bio">
+            <h3>Hai Liu, Ph.D.</h3>
 
-            Hai Liu is an Assistant Professor in the School of Electrical, Computer and Energy Engineering at Arizona State University. His research focuses on advanced semiconductor packaging, heterogeneous integration, photonics packaging, and MEMS technologies for next-generation computing and sensing systems.
+            <p>
+              Assistant Professor<br>
+              School of Electrical, Computer and Energy Engineering<br>
+              Arizona State University
+            </p>
 
-            Prior to joining ASU, he spent more than a decade in semiconductor and hardware R&D in industry, including serving as a Hardware Engineering Technical Leader at Cisco, where he worked on 3D heterogeneous integration and co-packaged optics for AI data centers.
+            <p>
+              Hai Liu is an Assistant Professor in the School of Electrical,
+              Computer and Energy Engineering at Arizona State University.
+              His research focuses on advanced semiconductor packaging,
+              heterogeneous integration, photonics packaging, and MEMS
+              technologies for next-generation computing and sensing systems.
+            </p>
 
-            [CV](/uploads/Hai_Liu_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Google Scholar](https://scholar.google.com/)
-        design:
-          width: 70%
+            <p>
+              Prior to joining ASU, he spent more than a decade in semiconductor
+              and hardware R&amp;D in industry, including serving as a Hardware
+              Engineering Technical Leader at Cisco, where he worked on
+              3D heterogeneous integration and co-packaged optics for AI
+              data centers.
+            </p>
+
+            <p class="pi-links">
+              <a href="/uploads/Hai_Liu_CV.pdf">CV</a>
+              <span>|</span>
+              <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+              <span>|</span>
+              <a href="https://scholar.google.com/">Google Scholar</a>
+            </p>
+          </div>
+
+        </div>
 ---
