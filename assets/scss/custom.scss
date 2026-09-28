@@ -46,4 +46,62 @@ img[alt="Advanced wire bonding"] {
   margin-left: 0;
   margin-right: auto;
 }
+.pi-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.pi-photo {
+  flex: 0 0 220px;
+}
+
+.pi-photo img {
+  display: block;
+  width: 220px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.pi-bio {
+  flex: 1;
+}
+
+.pi-bio h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.pi-bio p {
+  margin-bottom: 16px;
+}
+
+.pi-links {
+  margin-top: 20px;
+}
+
+.pi-links a {
+  text-decoration: none;
+}
+
+.pi-links span {
+  margin: 0 8px;
+}
+
+@media (max-width: 768px) {
+  .pi-profile {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .pi-photo {
+    flex: none;
+  }
+
+  .pi-photo img {
+    width: 200px;
+  }
+}
 
