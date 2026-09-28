@@ -21,27 +21,22 @@ sections:
           <div style="flex: 1; min-width: 280px;">
             <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">Hai Liu, Ph.D.</h3>
 
-            <p style="color: #666; font-weight: 500; margin-bottom: 12px; line-height: 1.5;">
+            <div style="color: #666; font-weight: 500; margin-bottom: 12px; line-height: 1.5;">
               Assistant Professor<br>
               School of Electrical, Computer and Energy Engineering<br>
               Arizona State University
-            </p>
+            </div>
 
-            <p>
+            <div style="margin-bottom: 16px;">
               Welcome to my homepage! My research focuses on advanced semiconductor
               packaging, heterogeneous integration, photonics packaging, and MEMS
               technologies for next-generation computing and sensing systems.
-            </p>
+            </div>
 
-            <p>
-              Prior to joining ASU, I spent more than a decade in semiconductor and
-              hardware R&amp;D in industry, including serving as a Hardware Engineering
-              Technical Leader at Cisco.
-            </p>
-
-            <p>
+            <div>
               Feel free to reach out via email for potential collaborations or graduate student openings.
-            </p>
+            </div>
+    
           </div>
         </div>
 ---
