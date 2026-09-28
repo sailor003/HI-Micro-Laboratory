@@ -6,8 +6,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: About Me
       text: |
+    
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px;">
+          Principal Investigator
+        </h3>
+
         <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
           <!-- 左侧照片 -->
           <div style="flex-shrink: 0;">
@@ -16,8 +20,29 @@ sections:
           
           <!-- 右侧文字介绍 -->
           <div style="flex: 1; min-width: 280px;">
-            <h3 style="margin-top: 0; margin-bottom: 8px;">Hai Liu</h3>
+
+            <h3 style="margin-top: 0; margin-bottom: 8px;">Hai Liu, Ph.D.</h3>
+
+            <p style="color: #666; font-weight: 500; margin-bottom: 12px;">
+              Assistant Professor<br>
+              School of Electrical, Computer and Energy Engineering<br>
+              Arizona State University
+            </p>
+
+            <p>
+              Welcome to my homepage! My research focuses on advanced semiconductor
+              packaging, heterogeneous integration, photonics packaging, and MEMS
+              technologies for next-generation computing and sensing systems.
+            </p>
+
+            <p>
+              Prior to joining ASU, I spent more than a decade in semiconductor and
+              hardware R&amp;D in industry, including serving as a Hardware Engineering
+              Technical Leader at Cisco.    
+            </p>
+    
             <p style="color: #666; font-weight: 500; margin-bottom: 12px;">Research Scientist / Associate Professor</p>
+    
             <p>
               Welcome to my homepage! My research focuses on microfabrication, integrated photonics, and quantum technologies.
             </p>
