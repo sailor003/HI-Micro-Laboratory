@@ -16,6 +16,9 @@ sections:
           <div style="flex-shrink: 0;">
             <img src="hai-liu.jpg" alt="Hai Liu" style="max-width: 240px; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
           </div>
+            <div style="margin-top: 16px; margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6; text-align: center;">
+              hailiu@asu.edu
+            </div>
 
           <!-- 右侧文字介绍 -->
           <div style="flex: 1; min-width: 280px;">
