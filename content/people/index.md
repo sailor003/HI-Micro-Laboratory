@@ -29,13 +29,18 @@ sections:
               Education 
             </div>
             <div style="margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6;">
-              Ph.D. in Electrical Engineering，University of Southern California, Los Angeles, CA, USA            Aug. 2016 – Aug. 2022<br>                        
-              M.S. in Materials Science，Harbin Institute of Technology, Harbin, Heilongjiang, China              Sep. 2004 - July 2006<br>  
-              B.S. in Metal Materials Engineering, Harbin Institute of Technology, Harbin, Heilongjiang, China    Sep. 2000 - July 2004 
+              Ph.D. in Electrical Engineering, University of Southern California, Los Angeles, CA, USA, Aug. 2016 – Aug. 2022<br>                        
+              M.S. in Materials Science, Harbin Institute of Technology, Harbin, Heilongjiang, China, Sep. 2004 - July 2006<br>  
+              B.S. in Metal Materials Engineering, Harbin Institute of Technology, Harbin, Heilongjiang, China, Sep. 2000 - July 2004 
             </div>
-            <div>
-              Feel free to reach out via email for potential collaborations or graduate student openings.
-            </div>    
+            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;";">
+              Professional Experience 
+            </div>
+            <div style="margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6;">
+              Hardware Engineering Technical Leader, Cisco Systems, Holmdel, NJ, USA, Feb 2025 – July 2026 <br>                        
+              Staff Package Assembly Engineer, InvenSense, San Jose, CA, USA, July 2022 – Feb 2025<br>  
+              Senior Semiconductor Packaging R&D Engineer, Samsung, Suzhou, Jiangsu, China, Sep. July 2006 - July 2016 
+            </div>   
           </div>
         </div>
 ---
