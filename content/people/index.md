@@ -25,11 +25,14 @@ sections:
               School of Electrical, Computer and Energy Engineering<br>
               Arizona State University
             </div>
+            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;";">
+              Education 
+            </div>
             <div style="margin-bottom: 16px;">
-              ## Education 
-              Ph.D. in Electrical Engineering，University of Southern California, Los Angeles, CA, USA          Aug. 2016 – Aug. 2022                         
-              M.S. in Materials Science，Harbin Institute of Technology, Harbin, Heilongjiang, China            Sep. 2004 - July 2006 
-              B.S. in Metal Materials Engineering                                                               Sep. 2000 - July 2004
+              Education 
+              Ph.D. in Electrical Engineering，University of Southern California, Los Angeles, CA, USA          Aug. 2016 – Aug. 2022<br>                        
+              M.S. in Materials Science，Harbin Institute of Technology, Harbin, Heilongjiang, China            Sep. 2004 - July 2006<br>  
+              B.S. in Metal Materials Engineering                                                               Sep. 2000 - July 2004 
             </div>
             <div>
               Feel free to reach out via email for potential collaborations or graduate student openings.
