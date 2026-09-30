@@ -18,10 +18,9 @@ sections:
             <div style="margin-top: 16px; margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6; text-align: center;">
               hailiu@asu.edu
             </div>
-            <div>
+            <div style="margin-top: 0px; margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6; text-align: center;">
               <a href="CV_Hai Liu.pdf" target="_blank">CV</a> &nbsp;|&nbsp;
               <a href="https://www.linkedin.com/in/hai-liu-5697a49b/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-              <a href="https://scholar.google.com/citations?user=6PXqZwYAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
             </div>
           </div>
 
