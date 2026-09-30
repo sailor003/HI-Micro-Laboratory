@@ -18,6 +18,11 @@ sections:
             <div style="margin-top: 16px; margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6; text-align: center;">
               hailiu@asu.edu
             </div>
+            <div>
+              <a href="CV_Hai Liu.pdf" target="_blank">CV</a> &nbsp;|&nbsp;
+              <a href="https://www.linkedin.com/in/hai-liu-5697a49b/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+              <a href="https://scholar.google.com/citations?user=6PXqZwYAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+            </div>
           </div>
 
           <!-- 右侧文字介绍 -->
@@ -28,7 +33,7 @@ sections:
               School of Electrical, Computer and Energy Engineering<br>
               Arizona State University
             </div>
-            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;";">
+            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">
               Education 
             </div>
             <div style="margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6;">
@@ -36,7 +41,7 @@ sections:
               M.S. in Materials Science, Harbin Institute of Technology, Harbin, Heilongjiang, China, Sep. 2004 - July 2006<br>  
               B.S. in Metal Materials Engineering, Harbin Institute of Technology, Harbin, Heilongjiang, China, Sep. 2000 - July 2004 
             </div>
-            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;";">
+            <div style="margin-top: 0; margin-bottom: 8px; font-weight: 700;">
               Professional Experience 
             </div>
             <div style="margin-bottom: 16px; font-size: 0.9rem; line-height: 1.6;">
