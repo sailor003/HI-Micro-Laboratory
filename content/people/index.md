@@ -26,9 +26,10 @@ sections:
               Arizona State University
             </div>
             <div style="margin-bottom: 16px;">
-              Welcome to my homepage! My research focuses on advanced semiconductor
-              packaging, heterogeneous integration, photonics packaging, and MEMS
-              technologies for next-generation computing and sensing systems.
+              ## Education 
+              Ph.D. in Electrical Engineering，University of Southern California, Los Angeles, CA, USA          Aug. 2016 – Aug. 2022                         
+              M.S. in Materials Science，Harbin Institute of Technology, Harbin, Heilongjiang, China            Sep. 2004 - July 2006 
+              B.S. in Metal Materials Engineering                                                               Sep. 2000 - July 2004
             </div>
             <div>
               Feel free to reach out via email for potential collaborations or graduate student openings.
