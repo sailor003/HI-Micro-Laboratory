@@ -55,5 +55,5 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['60px', '5%', '60px', '5%']
+        padding: ['30px', '5%', '60px', '5%']
 ---
