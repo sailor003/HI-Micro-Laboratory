@@ -13,14 +13,14 @@ sections:
         </h3>
 
         <p>
-          We are interested in motivated students who are passionate about our research in advanced semiconductor electronics/photonics packaging,
-          heterogeneous integration, MEMS and Microsystems for next-generation computing and sensing. We welcome students from electrical engineering,
-          mechanical engineering, materials science, physics, and related disciplines. Students with strong motivation, curiosity, and a willingness to learn are encouraged
-          to apply.
+         We are looking for motivated students passionate about advanced semiconductor electronics/photonics packaging, heterogeneous integration, and MEMS/Microsystems for
+         next-generation computing and sensing applications. We welcome students from electrical engineering, mechanical engineering, materials science, physics, and related
+         disciplines, with strong motivation, curiosity, and a willingness to learn.
         </p>
 
         <p>
-          If you are interested in joining the HI-Micro Lab, please send an email to <a href="mailto:hailiu@asu.edu">hailiu@asu.edu</a> with your research interests, CV, transcript,           research experience, technical skills, intended degree program at ASU, etc.
+          If you are interested in joining the HI-Micro Lab, please email <a href="mailto:hailiu@asu.edu">hailiu@asu.edu</a> with your CV, transcript, research interests and
+          experience, technical skills, and intended degree program at ASU.
 
         <h3 style="text-align: left; font-size: 1.2rem; color: #333; margin-top: 28px; margin-bottom: 8px; font-weight: 700;">
           Ph.D. Students
