@@ -33,7 +33,7 @@ sections:
       title:
       subtitle:
       text: |
-        <h3 style="text-align: left; font-size: 1.35rem; color: #000; margin-bottom: 10px; font-weight: 700;">
+        <h3 style="text-align: left; font-size: 1.35rem; color: #333; margin-bottom: 10px; font-weight: 700;">
           We are hiring
         </h3>
 
@@ -44,7 +44,7 @@ sections:
 
         We offer a collaborative research and study environment. To learn more or apply, please contact [hailiu@asu.edu](mailto:hailiu@asu.edu).
 
-        ## About Us
+        ### About Us
 
         We advance the frontiers of heterogeneous integration, MEMS, microsystems, and electronic/photonic semiconductor packaging. Our mission is to bridge device level innovation with system-level integration, powering next-generation applications in advanced computing, communications, sensing, and healthcare.
 
