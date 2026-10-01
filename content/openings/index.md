@@ -72,4 +72,4 @@ sections:
           Future postdoctoral opportunities will be posted here when positions
           become available.
         </p>
-    ---
+---
