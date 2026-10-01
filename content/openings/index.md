@@ -27,8 +27,9 @@ sections:
         </h3>
 
         <p>
-          Fully supported Ph.D. students positions are available. Ph.D. students will lead independent research projects,
-          develop experimental and analytical skills, and work on interdisciplinary problems in advanced semiconductor packaging and MEMS.
+          Fully funded Ph.D. positions are available in the areas of advanced semiconductor packaging and MEMS. Students will work on interdisciplinary research spanning design,
+          fabrication, and characterization, gaining hands-on experience with state-of-the-art cleanroom and characterization facilities. Through close mentorship and collaboration
+          with industry and academic partners, students will develop strong experimental and analytical skills, and grow into independent researchers over the course of the program.
         </p>
 
         <h3 style="text-align: left; font-size: 1.2rem; color: #333; margin-top: 28px; margin-bottom: 8px; font-weight: 700;">
@@ -36,9 +37,8 @@ sections:
         </h3>
 
         <p>
-          <strong>Currently recruiting.</strong>
-          We also welcome M.S. and undergraduate students to join our lab. Opportunities include independent research, design, simulation, micro-fabrication,
-          electronics/photonics/mechanical test, through close interaction with the PI and collaborators.
+          We also welcome M.S. and undergraduate students to join our lab. Opportunities include independent research, design, simulation, micro-fabrication, and
+          electronics/photonics/mechanical testing, with close mentorship from the PI and collaborators.
         </p>
 
         <h3 style="text-align: left; font-size: 1.2rem; color: #333; margin-top: 28px; margin-bottom: 8px; font-weight: 700;">
