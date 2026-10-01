@@ -1,7 +1,16 @@
-.hero-banner h1,
+.hero-banner h1 {
+  color: white !important;
+  font-size: 3.2rem !important;
+  font-weight: 700 !important;
+}
+
 .hero-banner h2 {
   color: white !important;
+  font-size: 2rem !important;
+  font-style: italic !important;
+  font-weight: 500 !important;
 }
+
 .hi-brand {
   display: flex;
   align-items: center;
@@ -28,6 +37,7 @@
   font-weight: 600;
   margin-top: 4px;
 }
+
 .site-footer > p.powered-by {
   display: none;
 }
