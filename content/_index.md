@@ -33,7 +33,9 @@ sections:
       title:
       subtitle:
       text: |
-        ## We are hiring
+        <h3 style="text-align: left; font-size: 1.35rem; color: #000; margin-bottom: 10px; font-weight: 700;">
+          We are hiring
+        </h3>
 
         Our lab at ASU is actively recruiting motivated Ph.D. and M.S. students with background in electrical engineering, mechanical engineering, materials science and engineering, or related fields for research in the areas of:
 
