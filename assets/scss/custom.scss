@@ -57,3 +57,99 @@ img[alt="Advanced wire bonding"] {
   margin-right: auto;
 }
 
+/* Contact page */
+.contact-section-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: inherit;
+  color: #333;
+}
+
+.contact-info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+
+.info-column {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 改为黑色/深色竖线 */
+.info-column.border-left {
+  border-left: 2px solid #222222;
+  padding-left: 30px;
+}
+
+/* 标题也同步调整为黑色/深色 */
+.section-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #222222;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 15px;
+}
+
+.address-text, .contact-person, .email-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.contact-person {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.email-text a {
+  color: #2b2b2b;
+  text-decoration: none;
+}
+
+.email-text a:hover {
+  text-decoration: underline;
+  color: #8c1d40; /* ASU Maroon 主色 */
+}
+
+.map-link {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+  color: #2b2b2b;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.map-link:hover {
+  text-decoration: underline;
+}
+
+.external-icon {
+  margin-right: 6px;
+}
+
+.map-embed-container {
+  width: 100%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* 移动端自适应：竖线转为黑色的横线 */
+@media (max-width: 768px) {
+  .contact-info-grid {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  
+  .info-column.border-left {
+    border-left: none;
+    border-top: 2px solid #222222;
+    padding-left: 0;
+    padding-top: 20px;
+  }
+}
