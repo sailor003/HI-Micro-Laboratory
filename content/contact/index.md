@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2026-10-01
+date: 2022-10-24
 
 type: landing
 
@@ -9,17 +9,14 @@ sections:
     content:
       title: ""
       text: |
-        <!-- 联系方式与地图容器 -->
         <div class="contact-section-container">
-          
-          <!-- 上半部分：双列文字 -->
           <div class="contact-info-grid">
-            <!-- 左列：Lab Location -->
+            
             <div class="info-column">
               <h3 class="section-title">LAB LOCATION</h3>
               <p class="address-text">
                 <strong>Engineering Research Center (ERC)</strong><br>
-                551 E Tyler Mall<br>
+                551 E Tyler Mall, Room 157<br>
                 Tempe, AZ 85281
               </p>
               <a href="https://map.asu.edu/" target="_blank" rel="noopener noreferrer" class="map-link">
@@ -27,20 +24,14 @@ sections:
                 View on Campus Map
               </a>
             </div>
-
-            <!-- 右列：Email -->
             <div class="info-column border-left">
-
-            ### EMAIL
-
-            **Prof. Hai Liu**  
-            [hailiu@asu.edu](mailto:hailiu@asu.edu)
-
+              <h3 class="section-title">EMAIL</h3>
+              <p class="contact-person">Prof. Hai Liu</p>
+              <p class="email-text">
+                <a href="mailto:hailiu@asu.edu">hailiu@asu.edu</a>
+              </p>
             </div>
-    
           </div>
-
-          <!-- 下半部分：嵌入地图 -->
           <div class="map-embed-container">
             <iframe 
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.805096538622!2d-111.9324542!3d33.4185012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08da3bf7a1f5%3A0x6b245dd9cb1c57e8!2sEngineering%20Research%20Center%20(ERC)!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus" 
@@ -52,6 +43,5 @@ sections:
               referrerpolicy="no-referrer-when-downgrade">
             </iframe>
           </div>
-
         </div>
 ---
