@@ -33,7 +33,7 @@ sections:
           </div>
           <div class="map-embed-container">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.805096538622!2d-111.9324542!3d33.4185012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08da3bf7a1f5%3A0x6b245dd9cb1c57e8!2sEngineering%20Research%20Center%20(ERC)!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus" 
+              src="https://maps.google.com/maps?q=Engineering%20Research%20Center%2C%20551%20E%20Tyler%20Mall%2C%20Tempe%2C%20AZ%2085281&t=&z=16&ie=UTF8&iwloc=B&output=embed" 
               width="100%" 
               height="400" 
               style="border:0; border-radius: 8px;" 
