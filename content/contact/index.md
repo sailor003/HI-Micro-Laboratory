@@ -10,13 +10,12 @@ sections:
       title: ""
       text: |
         <div class="contact-section-container">
-          <div class="contact-info-grid">
-            
+          <div class="contact-info-grid">            
             <div class="info-column">
               <h3 class="section-title">LAB LOCATION</h3>
               <p class="address-text">
                 <strong>Engineering Research Center (ERC)</strong><br>
-                551 E Tyler Mall, Room 157<br>
+                551 E Tyler Mall<br>
                 Tempe, AZ 85281
               </p>
               <a href="https://map.asu.edu/" target="_blank" rel="noopener noreferrer" class="map-link">
