@@ -153,3 +153,17 @@ img[alt="Advanced wire bonding"] {
     padding-top: 20px;
   }
 }
+
+/* 修改顶部导航栏菜单文字大小及间距 */
+.navbar-nav .nav-link {
+  font-size: 1.15rem !important; /* 原默认约为 0.9rem - 1rem，可以根据需要调整为 1.1rem ~ 1.25rem */
+  font-weight: 500 !important;  /* 适当加粗，字体会看起来更有质感 */
+  padding-left: 1rem !important;  /* 稍微加大菜单项之间的间距 */
+  padding-right: 1rem !important;
+}
+
+/* 调整下拉菜单（如有，如 Research 下拉菜单）的字号 */
+.dropdown-menu .dropdown-item {
+  font-size: 1.05rem !important;
+}
+
