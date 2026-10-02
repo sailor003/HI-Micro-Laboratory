@@ -30,18 +30,20 @@ sections:
 
             <!-- 右列：Email -->
             <div class="info-column border-left">
-              <h3 class="section-title">EMAIL</h3>
-              <p class="contact-person">Prof. Hai Liu</p>
-              <p class="email-text">
-                <a href="mailto:hailiu@asu.edu">hailiu@asu.edu</a>
-              </p>
+
+            ### EMAIL
+
+            **Prof. Hai Liu**  
+            [hailiu@asu.edu](mailto:hailiu@asu.edu)
+
             </div>
+    
           </div>
 
           <!-- 下半部分：嵌入地图 -->
           <div class="map-embed-container">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.8318182749593!2d-111.93245422345866!3d33.41850115082191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08da3bf7a1f5%3A0x6b245dd9cb1c57e8!2sEngineering%20Research%20Center!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.805096538622!2d-111.9324542!3d33.4185012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08da3bf7a1f5%3A0x6b245dd9cb1c57e8!2sEngineering%20Research%20Center%20(ERC)!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus" 
               width="100%" 
               height="400" 
               style="border:0; border-radius: 8px;" 
