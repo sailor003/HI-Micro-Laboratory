@@ -13,11 +13,11 @@ sections:
           <div class="contact-info-grid">            
             <div class="info-column">
               <h3 class="section-title">LAB LOCATION</h3>
-              <p class="address-text">
+              <div class="address-text">
                 <strong>Engineering Research Center (ERC)</strong><br>
                 551 E Tyler Mall<br>
                 Tempe, AZ 85281
-              </p>
+              </div>
               <a href="https://map.asu.edu/" target="_blank" rel="noopener noreferrer" class="map-link">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="external-icon"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
                 View on Campus Map
@@ -25,10 +25,10 @@ sections:
             </div>
             <div class="info-column border-left">
               <h3 class="section-title">EMAIL</h3>
-              <p class="contact-person">Prof. Hai Liu</p>
-              <p class="email-text">
+              <div class="contact-person">Prof. Hai Liu</div>
+              <div class="email-text">
                 <a href="mailto:hailiu@asu.edu">hailiu@asu.edu</a>
-              </p>
+              </div>
             </div>
           </div>
           <div class="map-embed-container">
