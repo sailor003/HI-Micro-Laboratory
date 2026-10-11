@@ -37,9 +37,10 @@ sections:
           We are hiring
         </h3>
 
-        Our lab at ASU is actively recruiting motivated Ph.D. and M.S. students with background in electrical engineering, mechanical engineering, materials science and engineering, or related fields for research in the areas of:
+        Our lab at ASU is actively recruiting motivated Ph.D. and M.S. students with background in electrical engineering, mechanical engineering, materials science and engineering, Physics, or related fields for research in the areas of:
 
         - Advanced Semiconductor Packaging & Heterogeneous Integration
+        - Photonics Packaging and Integration
         - Micro-electro-mechanical systems (MEMS) & Microsystems
 
         We offer a collaborative research and study environment. To learn more or apply, please contact [hailiu@asu.edu](mailto:hailiu@asu.edu).
