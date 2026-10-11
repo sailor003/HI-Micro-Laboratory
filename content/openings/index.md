@@ -27,9 +27,7 @@ sections:
         </h3>
 
         <p>
-          Fully funded Ph.D. positions are available in the areas of advanced semiconductor packaging and MEMS. Students will work on interdisciplinary research spanning design,
-          fabrication, and characterization, gaining hands-on experience with state-of-the-art cleanroom and characterization facilities. Through close mentorship and collaboration
-          with industry and academic partners, students will develop strong experimental and analytical skills, and grow into independent researchers over the course of the program.
+          Fully funded Ph.D. positions are available in the areas of advanced semiconductor packaging, photonics integration, and MEMS. Students will work on interdisciplinary  research spanning design, fabrication, and characterization, gaining hands-on experience with state-of-the-art cleanroom and characterization facilities. Through close mentorship and collaboration with industry and academic partners, students will develop strong experimental and analytical skills, and grow into independent researchers over the course of the program.
         </p>
 
         <h3 style="text-align: left; font-size: 1.2rem; color: #333; margin-top: 28px; margin-bottom: 8px; font-weight: 700;">
